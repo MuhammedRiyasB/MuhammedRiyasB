@@ -1,5 +1,12 @@
+<div align="center">
+
 # Hi there, I'm Riyas 👋  
-*Full-Stack .NET Developer 
+*Full-Stack .NET Developer*
+
+</div>
+
+![Coding GIF](assets/coding-typing.svg)
+
 
 ---
 
