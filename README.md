@@ -38,6 +38,11 @@
 - Docker (basics)  
 - Azure Cloud Services  
 
+## 📊 GitHub Stats
+![Riyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammedRiyasB&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedRiyasB&layout=compact&theme=radical)
+
 ---
 
 <!--
