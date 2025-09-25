@@ -5,6 +5,8 @@
 
 </div>
 
+![Coding GIF](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/coding-typing.svg)
+
 ---
 
 ## 🚀 About Me
