@@ -5,6 +5,7 @@
 
 </div>
 
+![Coding GIF](assets/coding-typing.svg)
 
 ---
 
